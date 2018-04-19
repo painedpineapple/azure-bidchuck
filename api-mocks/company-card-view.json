@@ -1,0 +1,167 @@
+{
+    "7e9aaec99332484682f387023290b53a": {
+        "id": "7e9aaec99332484682f387023290b53a",
+        "name": "Spokane Regional Plan Center",
+        "duns": "345345345",
+        "businessType": {
+            "id": 2,
+            "name": "Sub-Contractor"
+        },
+        "subscriptionStatus": 0,
+        "phone": "(509) 328-9600",
+        "fax": "1-509-328-7279",
+        "address": null,
+        "address2": null,
+        "city": "Spokane",
+        "postalCode": "99220",
+        "usaStateAbbr": "WA",
+        "serviceRadius": 25,
+        "primaryContactName": "Jenny",
+        "primaryContactTitle": "Martin",
+        "primaryContactPhone": "(509) 328-9600",
+        "accountingContactName": null,
+        "accountingContactPhone": "",
+        "insuraceCompany": null,
+        "bondRate": null,
+        "insuranceLimit": null,
+        "unionAffiliation": null,
+        "csiScopes": [
+            "05 12 00 Structural Steel Framing",
+            "05 13 00 Structural Stainless-Steel Framing"
+        ],
+        "smallBusinessStatuses": [],
+        "stateBusinessIdentifiers": []
+    },
+    "9afb39ee977c4981a1e2caed64fcb9ae": {
+        "id": "9afb39ee977c4981a1e2caed64fcb9ae",
+        "name": "ARC Document Solutions (formerly Reprographics NW)",
+        "duns": "345345341",
+        "businessType": {
+            "id": 2,
+            "name": "Sub-Contractor"
+        },
+        "subscriptionStatus": 0,
+        "phone": "(253) 383 6363",
+        "fax": "",
+        "address": null,
+        "address2": null,
+        "city": "Spokane",
+        "postalCode": "98402",
+        "usaStateAbbr": "WA",
+        "serviceRadius": 25,
+        "primaryContactName": "null",
+        "primaryContactTitle": "bit",
+        "primaryContactPhone": "(253) 383 6363",
+        "accountingContactName": null,
+        "accountingContactPhone": "",
+        "insuraceCompany": null,
+        "bondRate": null,
+        "insuranceLimit": null,
+        "unionAffiliation": null,
+        "csiScopes": [
+            "05 12 00 Structural Steel Framing",
+            "05 13 00 Structural Stainless-Steel Framing"
+        ],
+        "smallBusinessStatuses": [],
+        "stateBusinessIdentifiers": []
+    },
+    "7aaad75fc65a46cb9159edbf4004dcaf": {
+        "id": "7aaad75fc65a46cb9159edbf4004dcaf",
+        "name": "RVRO Temp Housing",
+        "duns": "345345342",
+        "businessType": {
+            "id": 2,
+            "name": "Sub-Contractor"
+        },
+        "subscriptionStatus": 0,
+        "phone": "480-461-0023",
+        "fax": "1-480-461-0025",
+        "address": null,
+        "address2": null,
+        "city": "Mesa",
+        "postalCode": "85201",
+        "usaStateAbbr": "AZ",
+        "serviceRadius": 25,
+        "primaryContactName": "Brittany",
+        "primaryContactTitle": "Wangbichler",
+        "primaryContactPhone": "480-461-0023",
+        "accountingContactName": null,
+        "accountingContactPhone": "",
+        "insuraceCompany": null,
+        "bondRate": null,
+        "insuranceLimit": null,
+        "unionAffiliation": null,
+        "csiScopes": [
+            "05 12 00 Structural Steel Framing",
+            "05 13 00 Structural Stainless-Steel Framing"
+        ],
+        "smallBusinessStatuses": [],
+        "stateBusinessIdentifiers": []
+    },
+    "15d7369191b549a4aea5025692671c11": {
+        "id": "15d7369191b549a4aea5025692671c11",
+        "name": "1 Alliance Geomatics Surveying & Mapping",
+        "duns": "345345343",
+        "businessType": {
+            "id": 2,
+            "name": "Sub-Contractor"
+        },
+        "subscriptionStatus": 0,
+        "phone": "253-981-4554",
+        "fax": "1-253-981-4725",
+        "address": null,
+        "address2": null,
+        "city": "Seattle",
+        "postalCode": "98188",
+        "usaStateAbbr": "WA",
+        "serviceRadius": 25,
+        "primaryContactName": "Jay",
+        "primaryContactTitle": "Byrd",
+        "primaryContactPhone": "253-981-4554",
+        "accountingContactName": null,
+        "accountingContactPhone": "",
+        "insuraceCompany": null,
+        "bondRate": null,
+        "insuranceLimit": null,
+        "unionAffiliation": null,
+        "csiScopes": [
+            "05 12 00 Structural Steel Framing",
+            "05 13 00 Structural Stainless-Steel Framing"
+        ],
+        "smallBusinessStatuses": [],
+        "stateBusinessIdentifiers": []
+    },
+    "fa71734f90f74fc4ab25dd69d449a8de": {
+        "id": "fa71734f90f74fc4ab25dd69d449a8de",
+        "name": "Abbey Road Group Land Development Services Company",
+        "duns": "345345344",
+        "businessType": {
+            "id": 2,
+            "name": "Sub-Contractor"
+        },
+        "subscriptionStatus": 0,
+        "phone": "253-435-3699",
+        "fax": "1-253-446-3159",
+        "address": null,
+        "address2": null,
+        "city": "Puyallup",
+        "postalCode": "98371",
+        "usaStateAbbr": "WA",
+        "serviceRadius": 25,
+        "primaryContactName": "Leah",
+        "primaryContactTitle": "Gunnells",
+        "primaryContactPhone": "253-435-3699",
+        "accountingContactName": null,
+        "accountingContactPhone": "",
+        "insuraceCompany": null,
+        "bondRate": null,
+        "insuranceLimit": null,
+        "unionAffiliation": null,
+        "csiScopes": [
+            "05 12 00 Structural Steel Framing",
+            "05 13 00 Structural Stainless-Steel Framing"
+        ],
+        "smallBusinessStatuses": [],
+        "stateBusinessIdentifiers": []
+    }
+}

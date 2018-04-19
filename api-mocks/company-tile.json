@@ -1,0 +1,43 @@
+{ "companies":
+  [
+    {
+      "name": "Company A",
+      "id": "7e9aaec99332484682f387023290b53a",
+      "scopesOfWork": [
+        "00 01 01 Scope a",
+        "02 00 00 Scope b",
+        "10 00 00 Scope c"
+      ],
+      "profileUrl": "https://dev.bidchuck.com:3000/c/7e9aaec99332484682f387023290b53a",
+      "logoUrl": "https://dev.bidchuck.com:3000/images/fds9876sdf",
+      "primaryContactName": "The Flash",
+      "phone": "(123) 123-1234"
+    },
+    {
+      "name": "Company B",
+      "id": "9afb39ee977c4981a1e2caed64fcb9ae",
+      "scopesOfWork": [
+        "00 30 00 Scope d",
+        "02 10 03 Scope e",
+        "10 00 00 Scope c"
+      ],
+      "profileUrl": "https://dev.bidchuck.com:3000/c/9afb39ee977c4981a1e2caed64fcb9ae",
+      "logoUrl": "https://dev.bidchuck.com:3000/images/adk283ako",
+      "primaryContactName": "Green Arrow",
+      "phone": "(987) 654-3210"
+    },
+    {
+      "name": "Company C",
+      "id": "7aaad75fc65a46cb9159edbf4004dcaf",
+      "scopesOfWork": [
+        "10 00 00 Scope c",
+        "02 10 03 Scope e",
+        "10 00 00 Scope g"
+      ],
+      "profileUrl": "https://dev.bidchuck.com:3000/c/7aaad75fc65a46cb9159edbf4004dcaf",
+      "logoUrl": "https://dev.bidchuck.com:3000/images/adk283ako",
+      "primaryContactName": "Batman",
+      "phone": "(987) 654-3210"
+    }
+  ]
+}
